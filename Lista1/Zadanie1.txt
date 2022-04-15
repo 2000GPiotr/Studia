@@ -1,0 +1,89 @@
+FURPS - Funkcjonal, Usability, Reliability, Performance, Supportability
+
+System Świteź:
+https://zamowienia.gum.gov.pl/pn/gum/demand/notice/public/3232/details
+Głównie na podstawie zal. nr 1 do umowy
+
+=================================================
+
+Funkcjonal
+
+  1. WYM.FUN_POWC.10 - Wyznaczanie miejsca i terminu realizacji usługi
+Podsystem obsługi wytworzenia certyfikowanych materiałów odniesienia wyznaczy miejsce i termin realizacji zleconej przez klienta usługi wytworzenia certyfikowanych materiałów odniesienia (CRM).
+
+  SMART - Mało szczegółowy, Mierzalny, Osiągalny, Realistyczny, Bezterminowy
+  Jak szybko zostanie wyznaczony termin i miejsce realizacji zamówienia?
+
+------------  
+
+  2. WYM.FUN_POWC.14 - Automatyczne uzupełnianie treści dokumentów
+Podsystem obsługi wytworzenia certyfikowanych materiałów odniesienia z wykorzystaniem modułu administrowania i utrzymania umożliwi automatyczne uzupełnianie treści generowanych dokumentów na podstawie informacji zgromadzonych w Systemie, w oparciu o predefiniowane szablony udostępniane w kontekście usługi wytworzenia certyfikowanych materiałów odniesienia (CRM).
+
+  SMART - Szczegółowy, Mierzalny, Atrakcyny, Istotny, Bezterminowy	
+  Co się stanie w rzypadku braku danych w systemie (zostanie wpisana domyślna wartość/pole zostanie puste/wystąpi błąd)?
+
+=====================================================
+
+Usability
+
+  1. WYM.GEN.05 - Kontrola dostępu - minimalny zakres informacji identyfikujących użytkownika
+Wymagany zakres identyfikacji użytkownika powinien obejmować minimum następujący zakres informacji: 
+- Imię i nazwisko, 
+- Login (unikalny kod identyfikacyjny), 
+- Hasło.
+  
+  SMART - Szczegółowy, Mierzalny, Atrakcyny, Istotny, Bezterminowy
+  Czy użytkownik może sam ustawić swój login?
+
+------------
+  
+  2. WYM.GEN.28 - Rejestracja istotnych zdarzeń
+System powinien gromadzić informację o wszelkich zdarzeniach dotyczących m.in. poprawnego / niepoprawnego logowania, zmiany hasła, zdarzenia systemowe oraz zdarzenia z uruchomionych usług. Zbierane logi z poszczególnych elementów, system powinien poddawać korelacji i na tej podstawie przedstawiać raporty administratorom. 
+ 
+  SMART - Małoszczegółowy, Mierzalny, Atrakcyjny, Mało realistyczny, Bezterminowy
+  Jak długo będziemy przechowywać logi, ile miejsca na nie potrzeba?
+
+-----------
+ 
+  3. WYM.NFN_DOK.01 - Opracowanie modelu architektury korporacyjnej
+Wykonawca zobowiązany jest do przygotowania i opisania architektury korporacyjnej. Architektura korporacyjna musi zostać opisana zgodnie z TOGAF 9.2 dotyczy to wszystkich domen architektury korporacyjnej.
+
+  SMART - Szczegółowy, Mierzalny, Atrakcyny, Istotny, Bezterminowy
+  W jakiej formie ma być przekazany model?
+
+==========================================================
+
+Reliability
+
+  1. 5.3 Lokalne kopie bezpieczeństwa
+Opcja realizacyjna stanowi rozszerzenie zakresu zamówienia podstawowego opisanego w rozdziale 4 OPZ. Opcja realizacyjna obejmuje dostarczenie rozwiązania, które bezobsługowo i okresowo, jednak nie rzadziej niż raz w tygodniu, będzie tworzyć w siedzibie Zamawiającego pełne kopie bezpieczeństwa wszystkich danych. W tym celu Wykonawca dostarczy do siedziby Zamawiającego i skonfiguruje wymagany sprzęt i oprogramowanie wraz ze wszystkimi wymaganymi licencjami. Dostarczone rozwiązanie musi przechowywać kopie przez okres nie krótszy niż okres realizacji wsparcia technicznego dla Systemu.  
+
+  SMART - Szczegółowy, Mierzalny, Atrakcyny, Mało realistyczny, Terminowy
+  Ile miejsca zajmą kopie?
+
+==========================================================
+
+Performance
+  1. WYM.NFN_HOST.02 - Zapewnienie możliwości przeniesienia Systemu do innego dostawcy chmury publicznej
+Wszystkie komponenty Systemu mają być utworzone w sposób umożliwiający ich migrację, razem lub osobno, na infrastrukturę dowolnego dostawcy chmury publicznej, kolokacji lub infrastruktury Zamawiającego spełniającego wymagania ilościowe i wydajnościowe infrastruktury co najmniej na poziomie infrastruktury dostawcy chmury publicznej, na którego zasobach Wykonawca uruchomi System. Migracja danych nie może powodować konieczności modyfikacji kodu lub ustawień któregokolwiek z komponentów Systemu.
+  
+  SMART - Nieszczegółowy, Słabo mierzalny, Osiągalny, Realistyczny, Bezterminowy
+  Czy odnosimy się tylko do aktualnych parametrów dostawcy chmury publicznej czy uwzględniamy zmiany parametrów w czsie utrzymywania systemu?
+
+============================================================
+
+Suportability
+
+  1. WYM.GEN.03 - Unikanie podatności z powodu nieaktualnego oprogramowania
+System powinien być wolny i utrzymywany wolnym przez cały okres utrzymywania Systemu przez Wykonawcę od podatności wynikających z niezaktualizowanego oprogramowania usługowego, systemowego oraz wykorzystywanego w inny sposób przez aplikacje wchodzące w skład Systemu.
+
+  SMART - Szczegółowy, Mierzalny, Atrakcyny, Nierealistyczny, Bezterminowy
+  Jak zapewnić bezpieczeństwo bez aktualizacji zabezpieczeń?
+
+-------------
+
+  3. WYM.NFN_HOST.08 - Lokalizacja danych i zasobów
+Wykorzystywane na potrzeby Systemu zasoby i usługi chmury publicznej muszą mieścić się na terenie Europejskiego Obszaru Gospodarczego. Żadne dane Systemu nie mogą być przekazywane w żadnej formie poza Europejski Obszar Gospodarczy.
+
+  SMART - Szczegółowy, Mierzalny, Atrakcyny, Istotny, Bezterminowy
+  Co w przypadku zawężenia Europejskiego Obszaru Gospodarczego
