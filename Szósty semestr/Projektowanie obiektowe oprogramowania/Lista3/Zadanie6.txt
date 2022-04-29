@@ -1,0 +1,5 @@
+SRP mówi o tym jak budować klasy, ISP jak projektować interfejsy
+
+SRP zakłada, że klasa ma ściśle wyznaczoną odpowiedzialność (powód potencjalnych zmian)
+
+ISP zakłada, że klijent korzystając z interfejsu nie musi implementować wielu niepotrzebnych metod, a jedynie te które są mu potrzebne

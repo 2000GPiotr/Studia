@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Grid_Class</name>
+    </assembly>
+    <members>
+        <member name="T:Grid_Class.Grid">
+            <summary>
+            Klasa implementujaca siatke n na m
+            </summary>
+        </member>
+        <member name="P:Grid_Class.Grid.Item(System.Int32,System.Int32)">
+            <summary>
+            Indekser dwuwymiarowy
+            </summary>
+            <param name="a"> Dlugosc </param>
+            <param name="b"> Szerokosc </param>
+            <returns> Wartosc z pola a,b </returns>
+        </member>
+        <member name="P:Grid_Class.Grid.Item(System.Int32)">
+            <summary>
+            Indekser jednowymiarowy
+            </summary>
+            <param name="a"> Numer zwracanego wiersza</param>
+            <returns> Tablice wartosci wiersza a </returns>
+        </member>
+        <member name="M:Grid_Class.Grid.#ctor(System.Int32,System.Int32)">
+            <summary>
+            Konstruktor siatki
+            </summary>
+            <param name="a">Dlugosc</param>
+            <param name="b">Szerokosc</param>
+        </member>
+    </members>
+</doc>

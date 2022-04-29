@@ -1,0 +1,30 @@
+module dff(output q, nq, input clk, d);  // Z wykladu
+	logic r, s, nr, ns;
+	nand gq(q, nr, nq), gnq(nq, ns, q),
+	gr(nr, clk, r), gs(ns, nr, clk, s),
+	gr1(r, nr, s), gs1(s, ns, d);
+endmodule
+
+
+module onebitreister(output q, input d, il, ir, c, l, r);
+  assign p = 	l ? 
+    				r ? d : 
+    					il :
+    			ir;
+  dff dff(q,,c,p);
+endmodule
+
+module eightbitregister(output [7:0]q, input [7:0]d, input i, c, l, r);
+  onebitreister obr0(q[0], d[0], q[1], i, c, l, r);
+  onebitreister obr1(q[1], d[1], q[2], q[0], c, l, r);
+  onebitreister obr2(q[2], d[2], q[3], q[1], c, l, r);
+  onebitreister obr3(q[3], d[3], q[4], q[2], c, l, r);
+  onebitreister obr4(q[4], d[4], q[5], q[3], c, l, r);
+  onebitreister obr5(q[5], d[5], q[6], q[4], c, l, r);
+  onebitreister obr6(q[6], d[6], q[7], q[5], c, l, r);
+  onebitreister obr7(q[7], d[7], i	 , q[6], c, l, r);
+endmodule
+
+module universalregister(output [7:0]q, input [7:0]d, input i, c, l, r);
+   eightbitregister ebr(q, d, i, c, l, r);
+endmodule

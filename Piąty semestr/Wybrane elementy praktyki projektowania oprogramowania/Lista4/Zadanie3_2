@@ -1,0 +1,9 @@
+module.exports = {fb};
+let module1 = require('./Zadanie3_1');
+
+function fb(n) {
+    if (n > 0) {
+        console.log(`b: ${n}`);
+        module1.fa(n - 1);
+    }
+}

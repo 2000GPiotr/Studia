@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Zadanie3/1.0.0": {
+        "dependencies": {
+          "Grid_Class": "1.0.0"
+        },
+        "runtime": {
+          "Zadanie3.dll": {}
+        }
+      },
+      "Grid_Class/1.0.0": {
+        "runtime": {
+          "Grid_Class.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zadanie3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Grid_Class/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

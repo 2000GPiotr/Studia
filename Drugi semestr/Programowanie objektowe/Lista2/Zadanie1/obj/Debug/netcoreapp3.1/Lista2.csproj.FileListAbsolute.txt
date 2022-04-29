@@ -1,0 +1,13 @@
+C:\Users\gpiot\Documents\Studia\Drugi semestr\Programowanie objektowe\Lista2\Zadanie1\bin\Debug\netcoreapp3.1\Lista2.exe
+C:\Users\gpiot\Documents\Studia\Drugi semestr\Programowanie objektowe\Lista2\Zadanie1\bin\Debug\netcoreapp3.1\Lista2.deps.json
+C:\Users\gpiot\Documents\Studia\Drugi semestr\Programowanie objektowe\Lista2\Zadanie1\bin\Debug\netcoreapp3.1\Lista2.runtimeconfig.json
+C:\Users\gpiot\Documents\Studia\Drugi semestr\Programowanie objektowe\Lista2\Zadanie1\bin\Debug\netcoreapp3.1\Lista2.runtimeconfig.dev.json
+C:\Users\gpiot\Documents\Studia\Drugi semestr\Programowanie objektowe\Lista2\Zadanie1\bin\Debug\netcoreapp3.1\Lista2.dll
+C:\Users\gpiot\Documents\Studia\Drugi semestr\Programowanie objektowe\Lista2\Zadanie1\bin\Debug\netcoreapp3.1\Lista2.pdb
+C:\Users\gpiot\Documents\Studia\Drugi semestr\Programowanie objektowe\Lista2\Zadanie1\obj\Debug\netcoreapp3.1\Lista2.csprojAssemblyReference.cache
+C:\Users\gpiot\Documents\Studia\Drugi semestr\Programowanie objektowe\Lista2\Zadanie1\obj\Debug\netcoreapp3.1\Lista2.csproj.CoreCompileInputs.cache
+C:\Users\gpiot\Documents\Studia\Drugi semestr\Programowanie objektowe\Lista2\Zadanie1\obj\Debug\netcoreapp3.1\Lista2.AssemblyInfoInputs.cache
+C:\Users\gpiot\Documents\Studia\Drugi semestr\Programowanie objektowe\Lista2\Zadanie1\obj\Debug\netcoreapp3.1\Lista2.AssemblyInfo.cs
+C:\Users\gpiot\Documents\Studia\Drugi semestr\Programowanie objektowe\Lista2\Zadanie1\obj\Debug\netcoreapp3.1\Lista2.dll
+C:\Users\gpiot\Documents\Studia\Drugi semestr\Programowanie objektowe\Lista2\Zadanie1\obj\Debug\netcoreapp3.1\Lista2.pdb
+C:\Users\gpiot\Documents\Studia\Drugi semestr\Programowanie objektowe\Lista2\Zadanie1\obj\Debug\netcoreapp3.1\Lista2.genruntimeconfig.cache

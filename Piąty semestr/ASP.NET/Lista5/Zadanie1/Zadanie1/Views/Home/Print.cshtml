@@ -1,0 +1,15 @@
+﻿@model Zadanie1.Models.Home.HomeIndexModel
+@{
+    ViewBag.Title = "Print";
+}
+
+<h2>Print</h2>
+
+<div>
+    @for (int i = 0; i < 10; i++)
+    {
+        <div>
+            Zadanie @(i+1) : @Model.Ex[i]
+        </div>
+    }
+</div>

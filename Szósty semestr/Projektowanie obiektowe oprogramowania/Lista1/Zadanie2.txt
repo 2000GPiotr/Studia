@@ -1,0 +1,36 @@
+Zakupy w sklepie internetowym (brief)
+
+Klient wybiera pozycję do zakupu. System wyświetla szczegóły produktu i prosi o podanie ilości sztuk do zamówienia. Klient podaje ilość do zamówienia, adres dostawy, formę płatności. System przekierowuje klienta do strony płatności. Klient realizuje płatność. System potwierdza zamówienie.
+
+=============================================
+
+Realizacja płatności (fully dressed) 
+
+Nazwa: Płatność
+Numer: 1
+Twórca: Piotr Gunia
+Ważność: Wysoka
+Typ przypadku użycia: Niezbędny
+Aktorzy: Kupujący w sklepie internetowym
+Krótki opis: Kupujący płaci za złożone zamówienie
+Warunki wstępne: Wybrano produkt, sposób dostawy
+Warunki końcowe: Płatność została zarejestrowana przez sklep, wystąpił błąd o którym użytkownik został poinformowany
+
+Główny scenariusz sukcesu:
+1a) Użytkownik wskazuje formę płatności "Przelew"
+2) Wyświetlona zostaje lista obsługiwanych banków
+3) Użytkownik wybiera bank z którego chce dokonać płatności
+4) Użytkownik zostaje przekierowany na stronę logowania banku
+5) Użytkownik podaje dane logowania
+6a) Użytkownik loguje się do banku
+7) Użytkownik potwierdza chęć wykonania przelewu
+8) Użytkownik zostaje poinformowany o wykonaniu przelewu
+9) Użytkownik zostaje wylogowany
+10) Użytkownik zostaje przekierowany na stronę sklepu
+
+Scenariusze alternatywne
+1b) Użytkownik wskazuje "płatność BLIK"
+2) Użytkownik realizuje płatność BLIK (inny scenariusz użycia)
+
+6b) Logowanie jest nieprawidłowe
+7) Powrót do punktu 5)

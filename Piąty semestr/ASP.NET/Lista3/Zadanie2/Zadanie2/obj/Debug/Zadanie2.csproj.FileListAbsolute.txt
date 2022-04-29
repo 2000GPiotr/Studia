@@ -1,0 +1,7 @@
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\Lista3\Zadanie2\Zadanie2\obj\Debug\Zadanie2.csprojAssemblyReference.cache
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\Lista3\Zadanie2\Zadanie2\obj\Debug\Zadanie2.csproj.CoreCompileInputs.cache
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\Lista3\Zadanie2\Zadanie2\bin\WebForm1.dll.config
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\Lista3\Zadanie2\Zadanie2\bin\WebForm1.dll
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\Lista3\Zadanie2\Zadanie2\bin\WebForm1.pdb
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\Lista3\Zadanie2\Zadanie2\obj\Debug\WebForm1.dll
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\Lista3\Zadanie2\Zadanie2\obj\Debug\WebForm1.pdb

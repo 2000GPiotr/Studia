@@ -1,0 +1,11 @@
+module dff(output q, nq, input clk, d);  \\Kod z wykladu
+logic r, s, nr, ns;
+nand gq(q, nr, nq), gnq(nq, ns, q),
+gr(nr, clk, r), gs(ns, nr, clk, s),
+gr1(r, nr, s), gs1(s, ns, d);
+endmodule
+
+module wave(input clk,d,l, output o);
+  dff dms1(q, nq, clk, nq||d);
+  dff dms2(o, nq1, q, nq1||l);
+endmodule

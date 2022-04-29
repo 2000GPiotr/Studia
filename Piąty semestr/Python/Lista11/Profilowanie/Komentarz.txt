@@ -1,0 +1,6 @@
+Najwięcej razy wywołujemy funkcję append więc byłby to pierwszy kandydat do przyspieszenia, gdyby nie to, że jest to funkcja biblioteczna zajmująca relatywnie mało czasu.
+Kolejnymi funkcjami w których spędzamy dużo czasu (oraz dużo razy wywołujemy) to dzielniki, czy_doskonała, oraz floor.
+Najwięcej moglibyśmy zyskać zmieniając implementację funkcji dzielniki.
+
+Otrzymanie profilu:
+python3 -m profile .\Profilowanie\Doskonale.py > .\Profilowanie\profil.prof

@@ -1,0 +1,7 @@
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\Lista8\Zadanie2\Zadanie2\obj\Release\net6.0\PubTmp\Out\Zadanie2.exe
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\Lista8\Zadanie2\Zadanie2\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\Lista8\Zadanie2\Zadanie2\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\Lista8\Zadanie2\Zadanie2\obj\Release\net6.0\PubTmp\Out\Zadanie2.dll
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\Lista8\Zadanie2\Zadanie2\obj\Release\net6.0\PubTmp\Out\Zadanie2.deps.json
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\Lista8\Zadanie2\Zadanie2\obj\Release\net6.0\PubTmp\Out\Zadanie2.runtimeconfig.json
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\Lista8\Zadanie2\Zadanie2\obj\Release\net6.0\PubTmp\Out\Zadanie2.pdb

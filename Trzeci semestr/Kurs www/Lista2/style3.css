@@ -1,0 +1,11 @@
+p { color:red;} 
+
+p span { color:green; }
+
+div > p { color:blue; }
+
+h1 + h2 { color: gray; }
+
+#H1id { color:lime; }
+
+.spanclass { color: saddlebrown; }

@@ -1,0 +1,27 @@
+﻿@model Przykład.Models.Account.AccountLogonModel
+@{
+    ViewBag.Title = "Logon";
+}
+
+<h2>Logon</h2>
+
+<form method="post">
+    <div>
+        @*
+        Login: <input name="Username" value="@Model.Username" />
+        *@
+        Login: @Html.TextBoxFor(m => m.Username)
+    </div>
+    <div>
+        Hasło: <input name="Password" type="password"/>
+    </div>
+    <div>
+        <button>Zaloguj</button>
+    </div>
+    @if(!string.IsNullOrEmpty(this.ViewBag.Message))
+    {
+        <div>
+            @this.ViewBag.Message
+        </div>
+    }
+</form>

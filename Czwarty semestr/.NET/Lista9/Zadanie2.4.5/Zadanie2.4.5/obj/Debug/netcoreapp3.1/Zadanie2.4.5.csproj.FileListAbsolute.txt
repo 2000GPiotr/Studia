@@ -1,0 +1,13 @@
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista9\Zadanie2.4.5\Zadanie2.4.5\bin\Debug\netcoreapp3.1\Zadanie2.4.5.exe
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista9\Zadanie2.4.5\Zadanie2.4.5\bin\Debug\netcoreapp3.1\Zadanie2.4.5.deps.json
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista9\Zadanie2.4.5\Zadanie2.4.5\bin\Debug\netcoreapp3.1\Zadanie2.4.5.runtimeconfig.json
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista9\Zadanie2.4.5\Zadanie2.4.5\bin\Debug\netcoreapp3.1\Zadanie2.4.5.runtimeconfig.dev.json
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista9\Zadanie2.4.5\Zadanie2.4.5\bin\Debug\netcoreapp3.1\Zadanie2.4.5.dll
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista9\Zadanie2.4.5\Zadanie2.4.5\bin\Debug\netcoreapp3.1\Zadanie2.4.5.pdb
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista9\Zadanie2.4.5\Zadanie2.4.5\obj\Debug\netcoreapp3.1\Zadanie2.4.5.csprojAssemblyReference.cache
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista9\Zadanie2.4.5\Zadanie2.4.5\obj\Debug\netcoreapp3.1\Zadanie2.4.5.AssemblyInfoInputs.cache
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista9\Zadanie2.4.5\Zadanie2.4.5\obj\Debug\netcoreapp3.1\Zadanie2.4.5.AssemblyInfo.cs
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista9\Zadanie2.4.5\Zadanie2.4.5\obj\Debug\netcoreapp3.1\Zadanie2.4.5.csproj.CoreCompileInputs.cache
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista9\Zadanie2.4.5\Zadanie2.4.5\obj\Debug\netcoreapp3.1\Zadanie2.4.5.dll
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista9\Zadanie2.4.5\Zadanie2.4.5\obj\Debug\netcoreapp3.1\Zadanie2.4.5.pdb
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista9\Zadanie2.4.5\Zadanie2.4.5\obj\Debug\netcoreapp3.1\Zadanie2.4.5.genruntimeconfig.cache

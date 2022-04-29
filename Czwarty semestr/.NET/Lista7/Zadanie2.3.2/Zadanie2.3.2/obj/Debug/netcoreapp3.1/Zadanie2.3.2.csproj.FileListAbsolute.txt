@@ -1,0 +1,13 @@
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista7\Zadanie2.3.2\Zadanie2.3.2\obj\Debug\netcoreapp3.1\Zadanie2.3.2.csprojAssemblyReference.cache
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista7\Zadanie2.3.2\Zadanie2.3.2\obj\Debug\netcoreapp3.1\Zadanie2.3.2.AssemblyInfoInputs.cache
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista7\Zadanie2.3.2\Zadanie2.3.2\obj\Debug\netcoreapp3.1\Zadanie2.3.2.AssemblyInfo.cs
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista7\Zadanie2.3.2\Zadanie2.3.2\obj\Debug\netcoreapp3.1\Zadanie2.3.2.csproj.CoreCompileInputs.cache
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista7\Zadanie2.3.2\Zadanie2.3.2\bin\Debug\netcoreapp3.1\Zadanie2.3.2.exe
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista7\Zadanie2.3.2\Zadanie2.3.2\bin\Debug\netcoreapp3.1\Zadanie2.3.2.deps.json
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista7\Zadanie2.3.2\Zadanie2.3.2\bin\Debug\netcoreapp3.1\Zadanie2.3.2.runtimeconfig.json
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista7\Zadanie2.3.2\Zadanie2.3.2\bin\Debug\netcoreapp3.1\Zadanie2.3.2.runtimeconfig.dev.json
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista7\Zadanie2.3.2\Zadanie2.3.2\bin\Debug\netcoreapp3.1\Zadanie2.3.2.dll
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista7\Zadanie2.3.2\Zadanie2.3.2\bin\Debug\netcoreapp3.1\Zadanie2.3.2.pdb
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista7\Zadanie2.3.2\Zadanie2.3.2\obj\Debug\netcoreapp3.1\Zadanie2.3.2.dll
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista7\Zadanie2.3.2\Zadanie2.3.2\obj\Debug\netcoreapp3.1\Zadanie2.3.2.pdb
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista7\Zadanie2.3.2\Zadanie2.3.2\obj\Debug\netcoreapp3.1\Zadanie2.3.2.genruntimeconfig.cache

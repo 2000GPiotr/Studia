@@ -1,0 +1,60 @@
+module bitadder(output s,c_out, input a,b,c);
+  logic c_out=a&b | a&c | b&c;
+  logic s=a^b^c;
+endmodule
+
+module fourbitadder(output [3:0] s, output c_out, input [3:0] a,b, input c);
+  bitadder fa0(s[0],c1,a[0],b[0],c);
+  bitadder fa1(s[1],c2,a[1],b[1],c1);
+  bitadder fa2(s[2],c3,a[2],b[2],c2);
+  bitadder fa3(s[3],c_out,a[3],b[3],c3);
+endmodule
+
+module BCDadder(output [3:0] s, output c_out, input [3:0] a,b, input c);
+  logic [3:0] c1;
+  logic [3:0] w1;
+  
+  fourbitadder b0(c1,c_o,a,b,c);
+  
+  assign p0=c1[3] & c1[2];
+  assign p1=c1[3] & c1[1];
+  assign p2=p0 | p1;
+  assign c_out=c_o | p2;
+  assign w1={1'b0,c_out,c_out,1'b0};
+  fourbitadder b1(s,q,c1,w1,0);
+endmodule
+
+module com9(output [3:0] s,input [3:0] a, input com);
+  assign s[0]=a[0] ^ com;
+  assign s[1]=a[1];
+  assign p0=a[1] ^ a[2];
+  assign p1=p0 & com;
+  assign p2=a[2] & ~com;
+  assign s[2]=p1 | p2;
+  assign p3=a[3] & ~com;
+  assign p4=~a[1] & ~a[2];
+  assign p5=com & ~a[3];
+  assign p6=p4 & p5;
+  assign s[3]=p3 | p6;
+endmodule 
+
+module BCDadd_sub(output [3:0] s, output c_out, input [3:0] a,b, input com);
+  logic [3:0] p;
+  com9 sub_part(p,b,com);
+  BCDadder add(s,c_out,a,p,com);
+endmodule 
+
+module BCDadd_sub2(output [3:0] s, output c_out, input [3:0] a,b, input c, com);
+  logic [3:0] x;
+  com9 sub_part(x,b,com);
+  BCDadder add(s,c_out,a,x,c);
+endmodule 
+
+module finalBCDadd_sub (output [7:0] o,input [7:0] a,b, input sub);
+  logic [3:0] a0,a1,b0,b1,c0,c1;
+  assign {a1,a0} = a;
+  assign {b1,b0} = b;
+  BCDadd_sub BCD0(c0,c_o,a0,b0,sub);
+  BCDadd_sub2 BCD1(c1,p,a1,b1,c_o,sub);
+  assign o = {c1,c0};
+endmodule

@@ -1,0 +1,2 @@
+Pierwsze wywołanie funkcji dynamicznej jest znacząco dłuższe.
+Kolejne wywołania tej samej funkcji dynamicznej wykonują się już tak samo szybko, ponieważ przy pierwszym wywołaniu zostają stworzone ukonkretnione instrukcje.

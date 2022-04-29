@@ -1,0 +1,10 @@
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista5\Zadanie2.1.2\Zadanie2.1.2\bin\Debug\Zadanie2.1.2.exe.config
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista5\Zadanie2.1.2\Zadanie2.1.2\bin\Debug\Zadanie2.1.2.exe
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista5\Zadanie2.1.2\Zadanie2.1.2\bin\Debug\Zadanie2.1.2.pdb
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista5\Zadanie2.1.2\Zadanie2.1.2\obj\Debug\Zadanie2.1.2.csprojAssemblyReference.cache
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista5\Zadanie2.1.2\Zadanie2.1.2\obj\Debug\Zadanie2._1._2.Properties.Resources.resources
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista5\Zadanie2.1.2\Zadanie2.1.2\obj\Debug\Zadanie2.1.2.csproj.GenerateResource.cache
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista5\Zadanie2.1.2\Zadanie2.1.2\obj\Debug\Zadanie2.1.2.csproj.CoreCompileInputs.cache
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista5\Zadanie2.1.2\Zadanie2.1.2\obj\Debug\Zadanie2.1.2.exe
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista5\Zadanie2.1.2\Zadanie2.1.2\obj\Debug\Zadanie2.1.2.pdb
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista5\Zadanie2.1.2\Zadanie2.1.2\obj\Debug\Zadanie2._1._2.Form1.resources

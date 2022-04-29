@@ -1,0 +1,16 @@
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista4\Zadanie1.4.2\Zadanie1.4.2\bin\Debug\netcoreapp3.1\Zadanie1.4.2.exe
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista4\Zadanie1.4.2\Zadanie1.4.2\bin\Debug\netcoreapp3.1\Zadanie1.4.2.deps.json
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista4\Zadanie1.4.2\Zadanie1.4.2\bin\Debug\netcoreapp3.1\Zadanie1.4.2.runtimeconfig.json
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista4\Zadanie1.4.2\Zadanie1.4.2\bin\Debug\netcoreapp3.1\Zadanie1.4.2.runtimeconfig.dev.json
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista4\Zadanie1.4.2\Zadanie1.4.2\bin\Debug\netcoreapp3.1\Zadanie1.4.2.dll
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista4\Zadanie1.4.2\Zadanie1.4.2\bin\Debug\netcoreapp3.1\Zadanie1.4.2.pdb
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista4\Zadanie1.4.2\Zadanie1.4.2\obj\Debug\netcoreapp3.1\Zadanie1.4.2.csprojAssemblyReference.cache
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista4\Zadanie1.4.2\Zadanie1.4.2\obj\Debug\netcoreapp3.1\Zadanie1.4.2.AssemblyInfoInputs.cache
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista4\Zadanie1.4.2\Zadanie1.4.2\obj\Debug\netcoreapp3.1\Zadanie1.4.2.AssemblyInfo.cs
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista4\Zadanie1.4.2\Zadanie1.4.2\obj\Debug\netcoreapp3.1\Zadanie1.4.2.csproj.CoreCompileInputs.cache
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista4\Zadanie1.4.2\Zadanie1.4.2\obj\Debug\netcoreapp3.1\Zadanie1.4.2.dll
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista4\Zadanie1.4.2\Zadanie1.4.2\obj\Debug\netcoreapp3.1\Zadanie1.4.2.pdb
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista4\Zadanie1.4.2\Zadanie1.4.2\obj\Debug\netcoreapp3.1\Zadanie1.4.2.genruntimeconfig.cache
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista4\Zadanie1.4.2\Zadanie1.4.2\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista4\Zadanie1.4.2\Zadanie1.4.2\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista4\Zadanie1.4.2\Zadanie1.4.2\obj\Debug\netcoreapp3.1\Zadanie1.4.2.csproj.ResolveComReference.cache

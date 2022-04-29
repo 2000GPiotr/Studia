@@ -1,0 +1,16 @@
+C:\Users\gpiot\Documents\Szósty_semestr\POO\Lista5\Zadanie2\Zadanie2\bin\Debug\net5.0\Zadanie2.exe
+C:\Users\gpiot\Documents\Szósty_semestr\POO\Lista5\Zadanie2\Zadanie2\bin\Debug\net5.0\Zadanie2.deps.json
+C:\Users\gpiot\Documents\Szósty_semestr\POO\Lista5\Zadanie2\Zadanie2\bin\Debug\net5.0\Zadanie2.runtimeconfig.json
+C:\Users\gpiot\Documents\Szósty_semestr\POO\Lista5\Zadanie2\Zadanie2\bin\Debug\net5.0\Zadanie2.runtimeconfig.dev.json
+C:\Users\gpiot\Documents\Szósty_semestr\POO\Lista5\Zadanie2\Zadanie2\bin\Debug\net5.0\Zadanie2.dll
+C:\Users\gpiot\Documents\Szósty_semestr\POO\Lista5\Zadanie2\Zadanie2\bin\Debug\net5.0\ref\Zadanie2.dll
+C:\Users\gpiot\Documents\Szósty_semestr\POO\Lista5\Zadanie2\Zadanie2\bin\Debug\net5.0\Zadanie2.pdb
+C:\Users\gpiot\Documents\Szósty_semestr\POO\Lista5\Zadanie2\Zadanie2\obj\Debug\net5.0\Zadanie2.csproj.AssemblyReference.cache
+C:\Users\gpiot\Documents\Szósty_semestr\POO\Lista5\Zadanie2\Zadanie2\obj\Debug\net5.0\Zadanie2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpiot\Documents\Szósty_semestr\POO\Lista5\Zadanie2\Zadanie2\obj\Debug\net5.0\Zadanie2.AssemblyInfoInputs.cache
+C:\Users\gpiot\Documents\Szósty_semestr\POO\Lista5\Zadanie2\Zadanie2\obj\Debug\net5.0\Zadanie2.AssemblyInfo.cs
+C:\Users\gpiot\Documents\Szósty_semestr\POO\Lista5\Zadanie2\Zadanie2\obj\Debug\net5.0\Zadanie2.csproj.CoreCompileInputs.cache
+C:\Users\gpiot\Documents\Szósty_semestr\POO\Lista5\Zadanie2\Zadanie2\obj\Debug\net5.0\Zadanie2.dll
+C:\Users\gpiot\Documents\Szósty_semestr\POO\Lista5\Zadanie2\Zadanie2\obj\Debug\net5.0\ref\Zadanie2.dll
+C:\Users\gpiot\Documents\Szósty_semestr\POO\Lista5\Zadanie2\Zadanie2\obj\Debug\net5.0\Zadanie2.pdb
+C:\Users\gpiot\Documents\Szósty_semestr\POO\Lista5\Zadanie2\Zadanie2\obj\Debug\net5.0\Zadanie2.genruntimeconfig.cache

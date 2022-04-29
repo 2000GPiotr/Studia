@@ -1,0 +1,10 @@
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista1\Zadanie3\Grid_Class\bin\Debug\netstandard2.0\Grid_Class.deps.json
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista1\Zadanie3\Grid_Class\bin\Debug\netstandard2.0\Grid_Class.dll
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista1\Zadanie3\Grid_Class\bin\Debug\netstandard2.0\Grid_Class.pdb
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista1\Zadanie3\Grid_Class\obj\Debug\netstandard2.0\Grid_Class.csprojAssemblyReference.cache
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista1\Zadanie3\Grid_Class\obj\Debug\netstandard2.0\Grid_Class.AssemblyInfoInputs.cache
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista1\Zadanie3\Grid_Class\obj\Debug\netstandard2.0\Grid_Class.AssemblyInfo.cs
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista1\Zadanie3\Grid_Class\obj\Debug\netstandard2.0\Grid_Class.csproj.CoreCompileInputs.cache
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista1\Zadanie3\Grid_Class\obj\Debug\netstandard2.0\Grid_Class.dll
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista1\Zadanie3\Grid_Class\obj\Debug\netstandard2.0\Grid_Class.pdb
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista1\Zadanie3\Grid_Class\bin\Debug\netstandard2.0\Grid_Class.xml

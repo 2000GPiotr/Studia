@@ -1,0 +1,6 @@
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\WebApplication1\WebApplication1\obj\Release\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\WebApplication1\WebApplication1\obj\Release\WebApplication1.dll
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\WebApplication1\WebApplication1\obj\Release\WebApplication1.pdb

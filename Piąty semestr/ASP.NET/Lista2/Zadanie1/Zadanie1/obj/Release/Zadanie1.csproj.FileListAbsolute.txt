@@ -1,0 +1,6 @@
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\Lista2\Zadanie1\Zadanie1\bin\Zadanie1.dll.config
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\Lista2\Zadanie1\Zadanie1\bin\Zadanie1.dll
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\Lista2\Zadanie1\Zadanie1\bin\Zadanie1.pdb
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\Lista2\Zadanie1\Zadanie1\obj\Release\Zadanie1.csproj.CoreCompileInputs.cache
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\Lista2\Zadanie1\Zadanie1\obj\Release\Zadanie1.dll
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\Lista2\Zadanie1\Zadanie1\obj\Release\Zadanie1.pdb

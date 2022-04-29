@@ -1,0 +1,32 @@
+module tff(output q, nq, input t, clk, nrst);//   Z wykladu
+	
+  logic ns, nr, ns1, nr1, j, k;
+	nand n1(ns, clk, j), n2(nr, clk, k),
+	n3(q, ns, nq), n4(nq, nr, q, nrst),
+	n5(ns1, !clk, t, nq), n6(nr1, !clk, t, q),
+	n7(j, ns1, k), n8(k, nr1, j, nrst);
+endmodule
+
+module d_latch(output q, nq, input en, d); // Z wykladu 6
+logic nr, ns;
+nand gq(q, nr, nq), gnq(nq, ns, q),
+gr(nr, d, en), gs(ns, nr, en);
+endmodule
+
+module syncnt(output [3:0]out, input clk, nrst, down, step);
+  
+  logic [3:0] t, tn, q, nq;
+  
+  assign t = {q[2] & t[2], q[1] & t[1], p & t[0], 1'b1};
+  assign tn= {nq[2] & tn[2], nq[1] & tn[1], nq[0] & tn[0], 1'b1};
+  
+  d_latch dl(q[0], , !step, p);
+  
+  tff tf1(p, nq[0], down ? tn[0] : t[0], clk, nrst);
+  tff tf2(q[1], nq[1], down ? tn[1] : t[1], clk, nrst);
+  tff tf3(q[2], nq[2], down ? tn[2] : t[2], clk, nrst);
+  tff tf4(q[3], nq[3], down ? tn[3] : t[3], clk, nrst);
+  
+  assign out = q;
+  
+endmodule

@@ -1,0 +1,13 @@
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista3\Zadanie1.3.5\Zadanie1.3.5\bin\Debug\netcoreapp3.1\Zadanie1.3.5.exe
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista3\Zadanie1.3.5\Zadanie1.3.5\bin\Debug\netcoreapp3.1\Zadanie1.3.5.deps.json
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista3\Zadanie1.3.5\Zadanie1.3.5\bin\Debug\netcoreapp3.1\Zadanie1.3.5.runtimeconfig.json
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista3\Zadanie1.3.5\Zadanie1.3.5\bin\Debug\netcoreapp3.1\Zadanie1.3.5.runtimeconfig.dev.json
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista3\Zadanie1.3.5\Zadanie1.3.5\bin\Debug\netcoreapp3.1\Zadanie1.3.5.dll
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista3\Zadanie1.3.5\Zadanie1.3.5\bin\Debug\netcoreapp3.1\Zadanie1.3.5.pdb
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista3\Zadanie1.3.5\Zadanie1.3.5\obj\Debug\netcoreapp3.1\Zadanie1.3.5.csprojAssemblyReference.cache
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista3\Zadanie1.3.5\Zadanie1.3.5\obj\Debug\netcoreapp3.1\Zadanie1.3.5.AssemblyInfoInputs.cache
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista3\Zadanie1.3.5\Zadanie1.3.5\obj\Debug\netcoreapp3.1\Zadanie1.3.5.AssemblyInfo.cs
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista3\Zadanie1.3.5\Zadanie1.3.5\obj\Debug\netcoreapp3.1\Zadanie1.3.5.csproj.CoreCompileInputs.cache
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista3\Zadanie1.3.5\Zadanie1.3.5\obj\Debug\netcoreapp3.1\Zadanie1.3.5.dll
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista3\Zadanie1.3.5\Zadanie1.3.5\obj\Debug\netcoreapp3.1\Zadanie1.3.5.pdb
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista3\Zadanie1.3.5\Zadanie1.3.5\obj\Debug\netcoreapp3.1\Zadanie1.3.5.genruntimeconfig.cache

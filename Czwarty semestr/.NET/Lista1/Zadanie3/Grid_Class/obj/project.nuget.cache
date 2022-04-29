@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BhwA6mI+rgn8skQY05ELFvk4vzhNF/Ka6m/haKZKcxp7+fXjWRLWj1qoLdz3z1gEpVnlxJ+mMgzkgCnBzmEsiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gpiot\\Documents\\Czwarty_semestr\\.NET\\Lista1\\Zadanie3\\Grid_Class\\Grid_Class.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gpiot\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\gpiot\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

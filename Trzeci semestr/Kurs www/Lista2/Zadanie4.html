@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Zadanie 4</title>
+
+    <style>
+      html {
+        text-align:center;
+        padding:30px;
+        border:2px dashed black;
+      }
+
+      div {
+        line-height:60px;
+        background-color:white;
+      }
+
+      #rodzic {
+        padding:30px;
+        border:2px dashed red;
+		position:relative;
+		top: 50px;
+      }
+
+      #dziecko1 {
+        border:1px dashed blue;
+        margin-bottom:15px;
+		position:absolute;
+		top:0;
+		left:0;
+      }
+
+      #dziecko2 {
+        border:1px dashed blue;
+		margin-bottom:15px;
+	  }
+	  
+	  #dziecko3 {
+        border:1px dashed blue;
+		position:fixed;
+	  }
+    </style>
+  </head>
+
+  <body>
+
+    <div id="rodzic">
+      <div id="dziecko1">to jest pierwszy element - div</div>
+      <div id="dziecko2">to jest drugi przykładowy element - div</div>
+	  <div id="dziecko3">to jest trzeci przykładowy element - div</div>
+    </div>
+
+  </body>
+</html>

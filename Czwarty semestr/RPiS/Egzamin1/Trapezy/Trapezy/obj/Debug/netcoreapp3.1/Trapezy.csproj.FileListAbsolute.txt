@@ -1,0 +1,13 @@
+C:\Users\gpiot\Documents\Czwarty_semestr\RPiS\Egzamin1\Trapezy\Trapezy\bin\Debug\netcoreapp3.1\Trapezy.exe
+C:\Users\gpiot\Documents\Czwarty_semestr\RPiS\Egzamin1\Trapezy\Trapezy\bin\Debug\netcoreapp3.1\Trapezy.deps.json
+C:\Users\gpiot\Documents\Czwarty_semestr\RPiS\Egzamin1\Trapezy\Trapezy\bin\Debug\netcoreapp3.1\Trapezy.runtimeconfig.json
+C:\Users\gpiot\Documents\Czwarty_semestr\RPiS\Egzamin1\Trapezy\Trapezy\bin\Debug\netcoreapp3.1\Trapezy.runtimeconfig.dev.json
+C:\Users\gpiot\Documents\Czwarty_semestr\RPiS\Egzamin1\Trapezy\Trapezy\bin\Debug\netcoreapp3.1\Trapezy.dll
+C:\Users\gpiot\Documents\Czwarty_semestr\RPiS\Egzamin1\Trapezy\Trapezy\bin\Debug\netcoreapp3.1\Trapezy.pdb
+C:\Users\gpiot\Documents\Czwarty_semestr\RPiS\Egzamin1\Trapezy\Trapezy\obj\Debug\netcoreapp3.1\Trapezy.csprojAssemblyReference.cache
+C:\Users\gpiot\Documents\Czwarty_semestr\RPiS\Egzamin1\Trapezy\Trapezy\obj\Debug\netcoreapp3.1\Trapezy.AssemblyInfoInputs.cache
+C:\Users\gpiot\Documents\Czwarty_semestr\RPiS\Egzamin1\Trapezy\Trapezy\obj\Debug\netcoreapp3.1\Trapezy.AssemblyInfo.cs
+C:\Users\gpiot\Documents\Czwarty_semestr\RPiS\Egzamin1\Trapezy\Trapezy\obj\Debug\netcoreapp3.1\Trapezy.csproj.CoreCompileInputs.cache
+C:\Users\gpiot\Documents\Czwarty_semestr\RPiS\Egzamin1\Trapezy\Trapezy\obj\Debug\netcoreapp3.1\Trapezy.dll
+C:\Users\gpiot\Documents\Czwarty_semestr\RPiS\Egzamin1\Trapezy\Trapezy\obj\Debug\netcoreapp3.1\Trapezy.pdb
+C:\Users\gpiot\Documents\Czwarty_semestr\RPiS\Egzamin1\Trapezy\Trapezy\obj\Debug\netcoreapp3.1\Trapezy.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista1\Zadanie3\Grid_Class\Grid_Class.xml</DocumentationFile>
+  </PropertyGroup>
+
+</Project>

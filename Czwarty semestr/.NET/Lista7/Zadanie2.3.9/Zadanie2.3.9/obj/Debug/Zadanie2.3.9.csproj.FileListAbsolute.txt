@@ -1,0 +1,13 @@
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista7\Zadanie2.3.9\Zadanie2.3.9\bin\Debug\Zadanie2.3.9.exe.config
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista7\Zadanie2.3.9\Zadanie2.3.9\bin\Debug\Zadanie2.3.9.exe
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista7\Zadanie2.3.9\Zadanie2.3.9\bin\Debug\Zadanie2.3.9.pdb
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista7\Zadanie2.3.9\Zadanie2.3.9\bin\Debug\System.Management.Automation.dll
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista7\Zadanie2.3.9\Zadanie2.3.9\bin\Debug\Microsoft.Management.Infrastructure.dll
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista7\Zadanie2.3.9\Zadanie2.3.9\bin\Debug\System.Management.Automation.xml
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista7\Zadanie2.3.9\Zadanie2.3.9\obj\Debug\Zadanie2.3.9.csprojAssemblyReference.cache
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista7\Zadanie2.3.9\Zadanie2.3.9\obj\Debug\Zadanie2.3.9.csproj.CoreCompileInputs.cache
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista7\Zadanie2.3.9\Zadanie2.3.9\obj\Debug\Zadanie2.3.9.csproj.CopyComplete
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista7\Zadanie2.3.9\Zadanie2.3.9\obj\Debug\Zadanie2.3.9.exe
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista7\Zadanie2.3.9\Zadanie2.3.9\obj\Debug\Zadanie2.3.9.pdb
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista7\Zadanie2.3.9\Zadanie2.3.9\obj\Debug\Zadanie2._3._9.ProjectInstaller.resources
+C:\Users\gpiot\Documents\Czwarty_semestr\.NET\Lista7\Zadanie2.3.9\Zadanie2.3.9\obj\Debug\Zadanie2.3.9.csproj.GenerateResource.cache

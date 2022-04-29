@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="pl">
+
+<head>
+<meta charset="UTF-8"/>
+<link rel="stylesheet" href="fonts/Fonts.css" />
+<title>Zadanie7</title>
+
+	<style>
+		.pole{
+		width: 250px;}
+		
+		.pole:focus{
+		width: 500px;
+		transition: 2s;}
+		
+		.przycisk{
+		color: aqua;
+		text-shadow: 1px 1px blue;}
+		
+		.przycisk:hover{
+		text-shadow: -2px -1px green;
+		color: lime;
+		transition: 1s; }
+		
+	</style>
+</head>
+
+
+<body>
+	<form>
+        Imie:
+        <input class="pole" placeholder="Imie" required="required"><br><br>
+        Nazwisko:
+        <input class="pole" placeholder="Nazwisko" required="required"><br><br>
+        Adres:
+        <input class="pole" placeholder="Adres" required="required"><br><br>
+              
+		<input class="przycisk" type="submit">
+    </form>
+</body>

@@ -1,0 +1,1 @@
+SELECT AddressID FROM SalesLT.Address

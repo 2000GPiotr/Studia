@@ -1,0 +1,11 @@
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\Lista4\Zadanie2\Zadanie2\bin\Zadanie2.dll.config
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\Lista4\Zadanie2\Zadanie2\bin\Zadanie2.dll
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\Lista4\Zadanie2\Zadanie2\bin\Zadanie2.pdb
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\Lista4\Zadanie2\Zadanie2\obj\Debug\Zadanie2.csprojAssemblyReference.cache
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\Lista4\Zadanie2\Zadanie2\obj\Debug\Zadanie2.csproj.CoreCompileInputs.cache
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\Lista4\Zadanie2\Zadanie2\obj\Debug\Zadanie2.csproj.CopyComplete
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\Lista4\Zadanie2\Zadanie2\obj\Debug\Zadanie2.dll
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\Lista4\Zadanie2\Zadanie2\obj\Debug\Zadanie2.pdb
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\Lista4\Zadanie2\Zadanie2\bin\InfrastructureLibrary.dll
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\Lista4\Zadanie2\Zadanie2\bin\InfrastructureLibrary.pdb
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\Lista4\Zadanie2\Zadanie2\bin\InfrastructureLibrary.dll.config

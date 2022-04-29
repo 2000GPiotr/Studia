@@ -1,0 +1,7 @@
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\Lista4\Zadanie2\InfrastructureLibrary\bin\Debug\InfrastructureLibrary.dll
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\Lista4\Zadanie2\InfrastructureLibrary\bin\Debug\InfrastructureLibrary.pdb
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\Lista4\Zadanie2\InfrastructureLibrary\obj\Debug\InfrastructureLibrary.csprojAssemblyReference.cache
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\Lista4\Zadanie2\InfrastructureLibrary\obj\Debug\InfrastructureLibrary.csproj.CoreCompileInputs.cache
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\Lista4\Zadanie2\InfrastructureLibrary\obj\Debug\InfrastructureLibrary.dll
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\Lista4\Zadanie2\InfrastructureLibrary\obj\Debug\InfrastructureLibrary.pdb
+C:\Users\gpiot\Documents\Piąty_semestr\ASP.NET\Lista4\Zadanie2\InfrastructureLibrary\bin\Debug\InfrastructureLibrary.dll.config

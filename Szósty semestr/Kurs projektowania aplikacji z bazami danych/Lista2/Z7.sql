@@ -1,0 +1,29 @@
+CREATE TABLE SalesLT.Test 
+(
+	ID int IDENTITY(1000, 10),
+	x int
+)
+
+INSERT INTO SalesLT.Test(x) VALUES (2);
+INSERT INTO SalesLT.Test(x) VALUES (3);
+INSERT INTO SalesLT.Test(x) VALUES (4);
+INSERT INTO SalesLT.Test(x) VALUES (5);
+SELECT * FROM SalesLT.Test
+
+CREATE TABLE SalesLT.Test2 
+(
+	ID int IDENTITY(2000, 5),
+	x int
+)
+
+SELECT @@IDENTITY AS '@@IDENTITY' -- returned last-inserted identity value
+SELECT IDENT_CURRENT('SalesLT.OrdersToProcess') AS 'IDENT_CURRENT Orders' -- returned last-inserted identity from given table
+SELECT IDENT_CURRENT('SalesLT.Test') AS 'IDENTITY_CURRENT Test'
+SELECT IDENT_CURRENT('SalesLT.Test2') AS 'IDENTITY_CURRENT Test2'
+
+INSERT INTO SalesLT.Test2(x) VALUES (14);
+INSERT INTO SalesLT.Test2(x) VALUES (15);
+
+SELECT @@IDENTITY AS '@@IDENTITY'
+SELECT IDENT_CURRENT('SalesLT.Test') AS 'IDENTITY_CURRENT Test'
+SELECT IDENT_CURRENT('SalesLT.Test2') AS 'IDENTITY_CURRENT Test2'

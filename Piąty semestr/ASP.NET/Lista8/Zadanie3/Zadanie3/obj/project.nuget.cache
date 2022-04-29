@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "u0m2dP5uBCyh53u2nZnsLEh1EvfCtWHchAnBGBV3h8pDpQi1LrUQxdVVUTROz0s/3iuLcZrO22eIa64nt88iew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gpiot\\Documents\\Piąty_semestr\\ASP.NET\\Lista8\\Zadanie3\\Zadanie3\\Zadanie3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gpiot\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
+    "C:\\Users\\gpiot\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\gpiot\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\gpiot\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

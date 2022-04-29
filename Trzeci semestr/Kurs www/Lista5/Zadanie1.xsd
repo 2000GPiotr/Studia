@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    
+    <xs:element name="przelew">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="nr_konta">
+                    <xs:simpleType>
+                        <xs:restriction base="xs:integer">
+                            <xs:pattern value="\d{26}"/>
+                        </xs:restriction>
+                    </xs:simpleType>
+                </xs:element>
+
+               <xs:element name="pesel">
+                   <xs:simpleType>
+                       <xs:restriction base="xs:integer">
+                           <xs:pattern value="\d{11}" />
+                       </xs:restriction>
+                   </xs:simpleType>
+               </xs:element>
+
+                <xs:element name="data_urodzenia">
+                    <xs:simpleType>
+                        <xs:restriction base="xs:date">
+                            <xs:pattern value="(1\d{3}|20[0,1]\d|2020)-(0[0-9]|1[0,1,2])-([0-2]\d|3[0-1])"/> 
+                        </xs:restriction>
+                    </xs:simpleType>
+                </xs:element>
+
+                <xs:element name="email">
+                    <xs:simpleType>
+                        <xs:restriction base="xs:string">
+                            <xs:pattern value=".+@.+\..+" />
+                        </xs:restriction>
+                    </xs:simpleType>
+                </xs:element>
+
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

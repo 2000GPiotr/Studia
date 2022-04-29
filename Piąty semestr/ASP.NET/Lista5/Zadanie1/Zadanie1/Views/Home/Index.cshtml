@@ -1,0 +1,21 @@
+﻿@model Zadanie1.Models.Home.HomeIndexModel
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+Hello world!!!
+<form method="post">
+    <div>
+        @for (int i = 0; i < 10; i++)
+        {
+            <div>
+                Zadanie @(i+1) : @Html.TextBoxFor(m => m.Ex[i])
+            </div>
+        }
+    </div>
+    <div>
+        <button>Wyślij</button>
+    </div>
+</form>

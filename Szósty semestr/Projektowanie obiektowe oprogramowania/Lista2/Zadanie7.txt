@@ -1,0 +1,38 @@
+public class Student
+{
+	public Courses[] getCourses() {return courses;}
+}
+
+public calss UsosWebPage
+{
+	public void show()
+	{
+		pageLayout = gradeController.getStudentInfo()
+	}
+}
+
+public class GradeController 
+{
+    	public static PageLayout getStudentGradeInfo() 
+	{
+	        var studentCourses = student.getCourses();
+
+	        foreach (var course in studentCourses) 
+		{
+            		mark = course.getMark(student);
+        	}
+        	return pageLayout;
+	}
+}
+
+public class Course 
+{
+	private Mark getValue() {}
+
+	public Mark getMark(Student student) 
+	{
+        	getValue();
+    	}
+}
+
+Pseudokod nie jest jednoznaczny, ponieważ nie znamy definicji części fubkcji, nie znamy typów.

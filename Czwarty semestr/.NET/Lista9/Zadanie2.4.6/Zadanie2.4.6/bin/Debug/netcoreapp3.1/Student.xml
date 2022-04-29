@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Student name="Jan" surname="Kowalski" age="20">
+	<Address city="Wroclaw" street="Dworcowa"></Address>
+	<TmpAddress city="Warszawa" streer="Dolna"></TmpAddress>
+	<Lessons>
+		<Lesson name="aaa" grade="5"></Lesson>
+		<Lesson name="abbb" grade="4"></Lesson>
+		<Lesson name="acccc" grade="3"></Lesson>
+	</Lessons>
+</Student>

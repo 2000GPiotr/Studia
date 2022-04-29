@@ -1,0 +1,27 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "przelew",
+    "properties":
+    {
+        "nr_konta": 
+        {
+            "type": "string",
+            "pattern": "^\\d{26}$"
+        },
+        "pesel": 
+        {
+            "type": "string",
+            "pattern": "^\\d{11}$"
+        },
+        "data_urodzenia": 
+        {
+            "type": "string",
+            "pattern": "^(1\\d{3}|20[0-1]\\d|2020)-(0[0-9]|1[0,1,2])-([0-2]\\d|3[0-1])$"
+        },
+        "email": 
+        {
+            "type": "string",
+            "pattern": "^.+@.+\\..+$"
+        }
+    }
+}
